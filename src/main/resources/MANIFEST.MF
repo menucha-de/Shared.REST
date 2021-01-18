@@ -1,0 +1,18 @@
+Bundle-Name: Ha-VIS Net REST Shared
+Bundle-SymbolicName: havis.net.rest.shared
+Bundle-Vendor: HARTING IT_SD
+Bundle-Version: 2.6.0
+Bundle-ManifestVersion: 2
+Implementation-Version: 2.6
+Import-Package: 
+ javax.annotation,
+ javax.annotation.security,
+ javax.ws.rs,
+ javax.ws.rs.container,
+ javax.ws.rs.core,
+ javax.ws.rs.ext
+Export-Package: 
+ havis.net.rest.shared,
+ havis.net.rest.shared.data,
+ havis.net.rest.shared.provider
+
