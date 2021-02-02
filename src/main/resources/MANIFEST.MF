@@ -1,9 +1,9 @@
 Bundle-Name: Ha-VIS Net REST Shared
 Bundle-SymbolicName: havis.net.rest.shared
 Bundle-Vendor: HARTING IT_SD
-Bundle-Version: 2.6.0
+Bundle-Version: 2.7.0
 Bundle-ManifestVersion: 2
-Implementation-Version: 2.6
+Implementation-Version: 2.7
 Import-Package: 
  javax.annotation,
  javax.annotation.security,
